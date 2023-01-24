@@ -5,6 +5,6 @@ Programador Front-End, atualmente cursando no DevClub, aprendendo e desenvolvend
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&show_icons=true&theme=tokyonight)
+![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&show_icons=true&theme=tokyonight)
