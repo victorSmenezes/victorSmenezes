@@ -22,9 +22,9 @@
  
 ##
 
-[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&theme=tokyonight)](https://github.com/victorSmenezes/github-readme-stats)
+[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSenezes&theme=tokyonight)](https://github.com/victorSmenezes/github-readme-stats)
 
 <br>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes&theme=tokyonight)](https://github.com/victorSmenezes/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormenezes&theme=tokyonight)](https://github.com/victorSmenezes/github-readme-stats)
 
