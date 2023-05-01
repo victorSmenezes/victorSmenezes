@@ -2,6 +2,7 @@
 
 <h4>Programador Front-End, atualmente cursando no DevClub Front-End, aprendendo e desenvolvendo diversos projetos em JavaScript e ReactJs!
 </h4>
+<h4>Sinta-se à vontade para ver meus projetos😁</h4>
 <br>
 <br>
 
@@ -14,7 +15,7 @@
 </div>
   
 <h3>SKILLS</h3>
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,7 +27,7 @@
 ##
 
 <div align='center'> 
-  
+
 [![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&theme=merko )](https://github.com/victorSmenezes/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes&theme=blue-green)](https://github.com/victorSmenezes/github-readme-stats)
   
